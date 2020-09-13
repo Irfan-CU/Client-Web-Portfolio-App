@@ -1,0 +1,50 @@
+.comp-container
+{
+    margin-top: 25px;
+    width:70%;
+    margin-bottom: 132px;
+    margin-left: 15%;
+    
+}
+
+.blog-image
+{
+  background-image: url(../blog/images/photo-1586034679970-cb7b5fc4928a.jpg);
+  display: inline-block;
+  width: 65%;
+  height: 400px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: 100 500px;
+  margin-top:65px;
+  
+
+  
+}
+
+.blog-box
+{
+   
+    display: inline-block;
+    width:25%;
+    position: absolute;
+    right:15%;
+    z-index: 999;
+    background: #242424;
+    padding: 40px;
+    box-shadow: 0 10px 28px -5px;
+    min-height: 400px;
+    text-transform: capitalize;
+    
+
+   
+}
+.title h3
+{
+    font-family: 'Poppins', sans-serif;
+    font-size: 27px;
+    font-weight: 500;
+    color: white;
+}
